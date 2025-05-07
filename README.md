@@ -2,7 +2,7 @@
 自我介紹以及爬蟲成果
 
 ##網站連結
-[click me](https://qazol123456.github.io/index.html/)
+[click me](https://qazol123456.github.io/html5up-landed/)
 
 ##功能說明
 有三大部分，分別為主頁、個人介紹、爬蟲成果展示頁
